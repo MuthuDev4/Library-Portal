@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4be698e8.js",
+    "static/media/what-happened-to-ruthy-ramirez-book.png": "/static/media/what-happened-to-ruthy-ramirez-book.276121b8434b4bf90e30.png",
+    "static/media/banyan-moon-book.png": "/static/media/banyan-moon-book.b2e457db8ed888302316.png",
+    "static/media/paper-names-book.png": "/static/media/paper-names-book.8dcd8014ef6c71c86a5a.png",
+    "static/media/homecoming-book.png": "/static/media/homecoming-book.b249fee155efc155fe3a.png",
+    "static/media/silver-alert-book.png": "/static/media/silver-alert-book.eadcf8a737fb565f06c1.png",
+    "static/media/the-collected-regrets-of-clover-book.png": "/static/media/the-collected-regrets-of-clover-book.172108f2c3a81640d96c.png",
+    "static/media/dust-child-book.png": "/static/media/dust-child-book.b0b0f79439bf747e6ad4.png",
+    "static/media/city-under-one-roof-book.png": "/static/media/city-under-one-roof-book.929d06303374d6bf8026.png",
+    "static/media/the-mostly-true-story-of-tanner-and-louise-book.png": "/static/media/the-mostly-true-story-of-tanner-and-louise-book.a4077ae2ac3cb0076aab.png",
+    "static/media/essex-dogs-book.png": "/static/media/essex-dogs-book.9c7271283278234cd9c8.png",
+    "static/media/the-god-of-endings-book.png": "/static/media/the-god-of-endings-book.234430d80425fb480ce7.png",
+    "static/media/everyone-here-is-lying-book.png": "/static/media/everyone-here-is-lying-book.3662bcb1a5bdfe7a45d2.png",
+    "static/media/crook-manifesto-book.png": "/static/media/crook-manifesto-book.6d4247893fff6c014990.png",
+    "static/media/the-world-and-all-that-it-holds-book.png": "/static/media/the-world-and-all-that-it-holds-book.3ad08696c46021b935d4.png",
+    "static/media/age-of-vice-book.png": "/static/media/age-of-vice-book.0f4c27aaaff1a0c2713b.png",
+    "static/media/a-death-at-the-party-book.png": "/static/media/a-death-at-the-party-book.3182dd6bfc46222419e0.png",
+    "static/media/the-wishing-game-book.png": "/static/media/the-wishing-game-book.140a62e05d3862ae794b.png",
+    "static/media/maame-book.png": "/static/media/maame-book.b1b7d59702692aa455f4.png",
+    "static/media/same-time-next-summer-book.png": "/static/media/same-time-next-summer-book.00d804c08a782e6523e3.png",
+    "static/media/only-love-can-hurt-like-this-book.png": "/static/media/only-love-can-hurt-like-this-book.f96a8bc1500229023343.png",
+    "static/media/now-you-see-us-book.png": "/static/media/now-you-see-us-book.ac18c0aaee5119e8a96b.png",
+    "static/media/gone-tonight-book.png": "/static/media/gone-tonight-book.e6437291506784d3b815.png",
+    "static/media/symphony-of-secrets-book.png": "/static/media/symphony-of-secrets-book.a841b81f140e3e303fbc.png",
+    "static/media/the-second-ending-book.png": "/static/media/the-second-ending-book.8914ea9986361d6c6ca9.png",
+    "static/media/yellowface-book.png": "/static/media/yellowface-book.1cdbd2efd43f30e09cfb.png",
+    "static/media/logo.png": "/static/media/logo.82327ec0c0f947f6d22f.png",
+    "index.html": "/index.html",
+    "main.4be698e8.js.map": "/static/js/main.4be698e8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4be698e8.js"
+  ]
+}
